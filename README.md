@@ -73,4 +73,4 @@ The script will generate three output files:
 Contributions are welcome! Feel free to open an issue or submit a pull request with any improvements or bug fixes.
 
 ## Licence
-This project is licensed under the MIT License. See the [[LICENSE]](https://github.com/CyberneticOps/EmailVerification/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/CyberneticOps/EmailVerification/blob/main/LICENSE) file for details.
