@@ -9,7 +9,7 @@ This Python script verifies the syntax and existence of email addresses against 
 ## Usage
 
 ```bash
-python3 email_verification.py -c <credentials list> -s <smtp server> -e <email list> -d <domain>
+python3 verifyemails.py -c <credentials list> -s <smtp server> -e <email list> -d <domain>
 ```
 
 ## Arguments
